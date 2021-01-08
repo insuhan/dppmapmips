@@ -13,3 +13,5 @@ Run ```main.m``` for the synthetic experiments (See Section 4.1 in [paper](http:
 ```matlab
 >> main
 ```
+
+The hyperparameters (e.g., depth of trees, number of clusters and etc) can be set to other values. Check the line 4-17 in ```main.m```.
